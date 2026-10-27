@@ -70,7 +70,7 @@ NIST SP 800-53 Rev. 5 Moderate controls crosswalked to CSF 2.0, ISO/IEC 27001:20
 CIS Controls v8.1 and SP 800-171 Rev. 3.
 
 A lesson from that work shaped the design: AI-drafted framework mappings were wrong
-often enough (about a third of CSF links and half of ISO links) that every mapping is
+often enough (about a third of CSF, ISO and CIS links) that every mapping is
 now regenerated from the publishers' own crosswalks, and the agents' drafts are checked
 against them automatically.
 
